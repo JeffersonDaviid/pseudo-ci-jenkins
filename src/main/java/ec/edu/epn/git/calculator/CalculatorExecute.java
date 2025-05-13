@@ -10,5 +10,8 @@ public class CalculatorExecute {
 
         result = calculator.addition(5, 8);
         System.out.println("Result of addition(5, 8) is: " + result);
+
+        result = calculator.subtraction(5, 8);
+        System.out.println("Result of subtraction(5, 8) is: " + result);
     }
 }
