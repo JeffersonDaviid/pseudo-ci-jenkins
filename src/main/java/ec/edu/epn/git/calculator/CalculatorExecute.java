@@ -16,5 +16,7 @@ public class CalculatorExecute {
 
         result = calculator.division(5, 8);
         System.out.println("Result of division(5, 8) is: " + result);
+
+        System.out.println("End of calculator operations.");
     }
 }
