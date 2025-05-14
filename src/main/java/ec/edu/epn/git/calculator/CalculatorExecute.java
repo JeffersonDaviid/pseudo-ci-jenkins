@@ -13,5 +13,8 @@ public class CalculatorExecute {
 
         result = calculator.subtraction(5, 8);
         System.out.println("Result of subtraction(5, 8) is: " + result);
+
+        result = calculator.division(5, 8);
+        System.out.println("Result of division(5, 8) is: " + result);
     }
 }
